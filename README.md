@@ -27,20 +27,22 @@ Vous pouvez ajouter, rechercher, consulter les détails et suivre la progression
 
 ## 🗂️ Structure du projet
 
-```📂 travaux d’apop
+```bash
+📂 travaux-d-apop
 ├── components/
 │   └── book-list.php         → Liste des livres
 ├── database.sqlite          → Base de données SQLite
-├── add-book.php             → Formulaire d’ajout de livre
-├── book-details.php        → Page de détails d’un livre
-├── index.php                → Page d’accueil
-└── README.md                → Ce fichier```
+├── add-book.php             → Formulaire d'ajout de livre
+├── book-details.php         → Page de détails d'un livre
+├── index.php                → Page d'accueil
+└── README.md                → Ce fichier
+```
 
 ## ⚙️ Installation
 
 1. **Cloner le projet**
 ```bash
-git clone https://github.com/ton-pseudo/travaux-d-apop.git
+git clone https://github.com/Broky64/MyBooks
 cd travaux-d-apop
 ```
 
